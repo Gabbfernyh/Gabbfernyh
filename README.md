@@ -72,6 +72,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="50" alt="wordpress logo"  />
   <img width="11" />
   <img src="https://skillicons.dev/icons?i=replit" height="50" alt="replit logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="50" alt="bootstrap logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="50" alt="php logo"  />
 </div>
 
 ###
