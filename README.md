@@ -1,13 +1,29 @@
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVpcm44Nm1qZ252eWhxZGs0dXM1aXJsczQ1MnQ2MWI5YXFlZ3N1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+  <img height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVpcm44Nm1qZ252eWhxZGs0dXM1aXJsczQ1MnQ2MWI5YXFlZ3N1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://gabbfernyh.github.io/Mefolio/">
+   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=rss&label=&color=97edaa&logoColor=white&style=for-the-badge" height="25" alt="portfolio logo" />
+  </a>
+  <img width="5" />
+  <a href="mailto:bielmgfv.python@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <img width="5" />
+  <a href="https://discord.com/users/835243201874493502">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  </a>
+  <!-- <img width="5" />
+  <a href="https://www.instagram.com/gabe__fernyh/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+  <img width="5" />
+  <a href="https://www.instagram.com/gabe__fernyh/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0071C5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+  </a> -->
 </div>
 
 ###
@@ -91,13 +107,13 @@
 <div>
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=Gabbfernyh&&theme=github_dark_dimmed" alt="GitHub Stats"/>  
+    <img height="195em" src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=Gabbfernyh&&theme=github_dark_dimmed" alt="GitHub Stats"/>  
    <br/><br/>    
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=Gabbfernyh&&theme=github_dark_dimmed" alt="Khaled's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Gabbfernyh&&theme=github_dark_dimmed"  alt="Khaled GitHub Top Languages" />
+  <img height="195em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=Gabbfernyh&&theme=github_dark_dimmed" alt="Gabbfernyh GitHub Stats" />
+  <img height="195em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Gabbfernyh&&theme=github_dark_dimmed"  alt="Gabbfernyh GitHub Top Languages" />
 </div>
 <br clear="both">
 
