@@ -88,11 +88,18 @@
 
 ###
 
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Gabbfernyh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabbfernyh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="236" alt="languages graph"  /> -->
-  <img src="https://streak-stats.demolab.com?user=Gabbfernyh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div>
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=Gabbfernyh&&theme=github_dark_dimmed" alt="GitHub Stats"/>  
+   <br/><br/>    
 </div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=Gabbfernyh&&theme=github_dark_dimmed" alt="Khaled's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Gabbfernyh&&theme=github_dark_dimmed"  alt="Khaled GitHub Top Languages" />
+</div>
+<br clear="both">
 
 ###
 <div>
