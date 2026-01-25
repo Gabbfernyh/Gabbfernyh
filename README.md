@@ -20,10 +20,11 @@
   <a href="https://www.instagram.com/gabe__fernyh/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
+   -->
   <img width="5" />
-  <a href="https://www.instagram.com/gabe__fernyh/">
+  <a href="[https://www.linkedin.com/in/marcos-gabriel-fernandes-vicente-a256483a8/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0071C5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
-  </a> -->
+  </a>
 </div>
 
 ###
