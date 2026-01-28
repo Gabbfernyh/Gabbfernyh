@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,100:1e90ff&height=140&section=header&text=Gabbfernyh&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  
   <img height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVpcm44Nm1qZ252eWhxZGs0dXM1aXJsczQ1MnQ2MWI5YXFlZ3N1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
 
@@ -43,11 +45,24 @@
 </div>
 
 ###
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me </h3>
+
+`Software Developer`
 
 ###
 
-<p align="left">I am Gabriel Fernandes from São Paulo/Brazil<br><br>- 🔭 I am working as a front-end developer...<br>- 📚 Currently, I am learning more about WordPress React... but with an enhanced and expanded focus on technology.<br>- ⚡In my free time, I usually try to study more whenever I can...</p>
+<p align="left">
+  Hello I am Gabriel Fernandes from São Paulo/Brazil
+</p>
+<p align="left">
+  - 🔭 I am working as a front-end developer...
+</p>
+<p aling="left"> 
+  - 📚 Currently, I am learning more about WordPress React... but with an enhanced and expanded focus on technology.
+</p> 
+  <p aling="left">
+    - ⚡In my free time, I usually try to study more whenever I can...
+  </p>
 
 ###
 
