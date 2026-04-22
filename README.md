@@ -58,7 +58,7 @@
   - 🔭 I am working as a front-end developer...
 </p>
 <p aling="left"> 
-  - 📚 Currently, I am learning more about WordPress React... but with an enhanced and expanded focus on technology.
+  - 📚 Currently, I am learning more about Next, React... but with an enhanced and expanded focus on technology.
 </p> 
   <p aling="left">
     - ⚡In my free time, I usually try to study more whenever I can...
